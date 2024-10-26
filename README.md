@@ -25,4 +25,4 @@ Questo script batch crea un semplice effetto di "Matrix", ripetendo una serie di
 
 ## Autore
 
-Creato da Marco come esempio di script semplice in stile *Matrix*.
+Creato da HighMark come esempio di script semplice in stile *Matrix*.
